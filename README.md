@@ -22,7 +22,8 @@ API.
 Written in Python 3. Must have and use custom app
 from https://developer.twitter.com; go to
 https://developer.twitter.com/en/apply/user to
-apply for an account.
+apply for an account. For more info on Tweepy, visit
+https://tweepy.readthedocs.io/en/v3.5.0
 
 Run in terminal/console.
 
