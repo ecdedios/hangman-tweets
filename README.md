@@ -1,3 +1,10 @@
+**     TWEEPY is currently incompatible with **
+**     Python 3.7 **
+**     **
+**     https://github.com/tweepy/tweepy/issues/1017  **
+
+
+
 # Hangman Tweets
 > A hangman clone.
 
