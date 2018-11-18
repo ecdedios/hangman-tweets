@@ -12,8 +12,12 @@ API.
 
 ## Usage
 
-Must have Python 3 installed. Run in terminal.
+Written in Python 3. Must have and use custom app
+from https://developer.twitter.com; go to
+https://developer.twitter.com/en/apply/user to
+apply for an account.
 
+Run in terminal/console.
 
 ## Meta
 
